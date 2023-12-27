@@ -114,7 +114,7 @@ export const ItemsList = [
   {
     id: 17,
     name: "Antilia",
-    price: 2_00_00_00_00_00,
+    price: 15_00_00_00_00_00,
     quantity: 0,
     imageLink:
       "https://designaddict.com/wp-content/uploads/2020/02/1yL5-FBWBGY3AbBLHc2Vgsw.jpeg",
